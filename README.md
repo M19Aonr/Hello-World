@@ -14,3 +14,4 @@ mkdir ~/IdeaProjects/
 cd ~/IdeaProjects/
 git clone https://github.com/M19Aonr/Hello-World.git
 ```
+- Now you can open project via PyCharm by open folder  
